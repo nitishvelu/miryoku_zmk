@@ -27,6 +27,7 @@ on:
         - "Halmak"
         - "QWERTY"
         - "QWERTZ"
+        - "GalliumColStage"
         - "Workman"
       nav:
         description: 'nav'
